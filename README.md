@@ -2,9 +2,9 @@
 ### Equipo 2: Implementación de métodos computacionales
 
 ## Integrantes
-Eduardo Jair Hernández Gómez A01412492
-        Axel Gael Uzeta Gómez A00829417
-        José Andrés Lozano Alanís A01284569
+### Eduardo Jair Hernández Gómez A01412492
+### Axel Gael Uzeta Gómez A00829417
+### José Andrés Lozano Alanís A01284569
 
 ## Gramática del analizador
 
