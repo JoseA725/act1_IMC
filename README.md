@@ -9,14 +9,25 @@ Eduardo Jair Hernández Gómez A01412492
 ## Gramática del analizador
 
 > S -> B C A D  | B C A D E
+
 > B -> Variable
+
 > C -> Asignación (=)
+
 > D -> Puntuación (;)
+
 > E -> Comentario (//)
+
 > F -> Entero
+
 > G -> Real
+
 > H -> + | - | / | * | ^ 
+
 > A -> F | F H A
+
 > A -> G | G H A
+
 > A -> B | B H A
+
 > A -> (A) | (A) H A
